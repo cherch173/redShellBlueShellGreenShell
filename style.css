@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Nintendo Switch UI', sans-serif;
+    font-weight: 900;
+    text-shadow: -.5px .5px #FFF,
+                 -.73px .73px #43a047,
+                 -1.37px 1.37px #ff5722,
+                 -1.73px 1.73px #2196f3;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Nintendo Switch UI', sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.1rem;
+    color: #fff;
+    text-shadow: -.75px .75px #ef3550,
+                 -1.5px 1.5px #f48fb1,
+                 -2.25px 2.25px #7e57c2,
+                 -3px 3px #2196f3,
+                 -3.75px 3.75px #26c6da,
+                 -4.5px 4.5px #43a047,
+                 -5.25px 5.25px #eeff41,
+                 -6px 6px #f9a825,
+                 -6.66px 6.66px #ff5722;
+  }
+  
+  h3 {
+    font-family: 'Nintendo Switch UI', sans-serif;
+    color: #eeff41;
+      text-shadow: -1px 1px #26c6da,
+                 -2px 2px #43a047;         
+    font-weight: 500px;
+    margin: 20px;
+  }
+  
+  h4 {
+    color: rgba(17,212,137,.86);
+    text-shadow: -.25px .25px #FFF;
+      font-family: 'Nintendo Switch UI', sans-serif;
+  }
+  
+  body {
+    text-align: center;
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ebd1e9c-f4f2-4227-93f4-2ea58641e23c/d2xzj3l-3fb8227e-c711-455f-9f85-59c69c82f458.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBlYmQxZTljLWY0ZjItNDIyNy05M2Y0LTJlYTU4NjQxZTIzY1wvZDJ4emozbC0zZmI4MjI3ZS1jNzExLTQ1NWYtOWY4NS01OWM2OWM4MmY0NTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oTDW1SKe7YA3gmAhxnjIg1r0Sh_qhtxt43LWQ8v4BYA);
+    @media screen(max-width: 1090px;)
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+  }
+  
+  #greenbutton {
+    background-color: green;
+    color: white;
+  }
+  
+  #redbutton {
+    background-color: red;
+    color: white;
+  }
+  
+  #bluebutton {
+    background-color: blue;
+    color: white;
+  }
+  
